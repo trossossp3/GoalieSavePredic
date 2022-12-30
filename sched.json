@@ -1,0 +1,4948 @@
+{
+  "copyright": "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. \u00a9 NHL 2022. All Rights Reserved.",
+  "totalItems": 82,
+  "totalEvents": 0,
+  "totalGames": 82,
+  "totalMatches": 0,
+  "metaData": { "timeStamp": "20221229_230750" },
+  "wait": 10,
+  "dates": [
+    {
+      "date": "2022-10-13",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020012,
+          "link": "/api/v1/game/2022020012/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-10-13T23:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 0,
+                "losses": 1,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 1,
+                "losses": 0,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 5,
+              "team": {
+                "id": 4,
+                "name": "Philadelphia Flyers",
+                "link": "/api/v1/teams/4"
+              }
+            }
+          },
+          "venue": {
+            "id": 5096,
+            "name": "Wells Fargo Center",
+            "link": "/api/v1/venues/5096"
+          },
+          "content": { "link": "/api/v1/game/2022020012/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-10-15",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020028,
+          "link": "/api/v1/game/2022020028/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-10-15T23:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 2,
+                "losses": 0,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 5,
+              "team": {
+                "id": 17,
+                "name": "Detroit Red Wings",
+                "link": "/api/v1/teams/17"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 0,
+                "losses": 2,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020028/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-10-18",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020048,
+          "link": "/api/v1/game/2022020048/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-10-18T23:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 1,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 24,
+                "name": "Anaheim Ducks",
+                "link": "/api/v1/teams/24"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 1,
+                "losses": 2,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020048/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-10-20",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020066,
+          "link": "/api/v1/game/2022020066/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-10-20T23:30:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 2,
+                "losses": 2,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 2,
+                "losses": 2,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 1,
+              "team": {
+                "id": 2,
+                "name": "New York Islanders",
+                "link": "/api/v1/teams/2"
+              }
+            }
+          },
+          "venue": { "name": "UBS Arena", "link": "/api/v1/venues/null" },
+          "content": { "link": "/api/v1/game/2022020066/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-10-22",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020075,
+          "link": "/api/v1/game/2022020075/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-10-22T17:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 1,
+                "losses": 6,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 1,
+              "team": {
+                "id": 28,
+                "name": "San Jose Sharks",
+                "link": "/api/v1/teams/28"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 3,
+                "losses": 2,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020075/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-10-24",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020093,
+          "link": "/api/v1/game/2022020093/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-10-24T23:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 4,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 6,
+              "team": {
+                "id": 15,
+                "name": "Washington Capitals",
+                "link": "/api/v1/teams/15"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 3,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020093/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-10-25",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020102,
+          "link": "/api/v1/game/2022020102/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-10-25T23:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 4,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 6,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 3,
+                "losses": 1,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 17,
+                "name": "Detroit Red Wings",
+                "link": "/api/v1/teams/17"
+              }
+            }
+          },
+          "venue": {
+            "id": 5145,
+            "name": "Little Caesars Arena",
+            "link": "/api/v1/venues/5145"
+          },
+          "content": { "link": "/api/v1/game/2022020102/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-10-28",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020123,
+          "link": "/api/v1/game/2022020123/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-10-28T23:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 4,
+                "losses": 3,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 21,
+                "name": "Colorado Avalanche",
+                "link": "/api/v1/teams/21"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 5,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 1,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020123/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-10-30",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020139,
+          "link": "/api/v1/game/2022020139/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-10-30T18:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 3,
+                "losses": 7,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 1,
+              "team": {
+                "id": 29,
+                "name": "Columbus Blue Jackets",
+                "link": "/api/v1/teams/29"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 6,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 7,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020139/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-01",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020157,
+          "link": "/api/v1/game/2022020157/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-02T02:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 7,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 5,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 2,
+                "losses": 6,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 23,
+                "name": "Vancouver Canucks",
+                "link": "/api/v1/teams/23"
+              }
+            }
+          },
+          "venue": {
+            "id": 5073,
+            "name": "Rogers Arena",
+            "link": "/api/v1/venues/5073"
+          },
+          "content": { "link": "/api/v1/game/2022020157/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-03",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020170,
+          "link": "/api/v1/game/2022020170/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-04T01:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 8,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 7,
+                "losses": 4,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 22,
+                "name": "Edmonton Oilers",
+                "link": "/api/v1/teams/22"
+              }
+            }
+          },
+          "venue": {
+            "id": 5100,
+            "name": "Rogers Place",
+            "link": "/api/v1/venues/5100"
+          },
+          "content": { "link": "/api/v1/game/2022020170/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-05",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020187,
+          "link": "/api/v1/game/2022020187/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-06T02:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 9,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 5,
+                "losses": 4,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 20,
+                "name": "Calgary Flames",
+                "link": "/api/v1/teams/20"
+              }
+            }
+          },
+          "venue": {
+            "id": 5075,
+            "name": "Scotiabank Saddledome",
+            "link": "/api/v1/venues/5075"
+          },
+          "content": { "link": "/api/v1/game/2022020187/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-08",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020197,
+          "link": "/api/v1/game/2022020197/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-09T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 5,
+                "losses": 5,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 20,
+                "name": "Calgary Flames",
+                "link": "/api/v1/teams/20"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 10,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020197/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-10",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020213,
+          "link": "/api/v1/game/2022020213/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-11T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 4,
+                "losses": 8,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 9,
+                "name": "Ottawa Senators",
+                "link": "/api/v1/teams/9"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 11,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020213/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-12",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020227,
+          "link": "/api/v1/game/2022020227/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-13T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 6,
+                "losses": 7,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 53,
+                "name": "Arizona Coyotes",
+                "link": "/api/v1/teams/53"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 12,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020227/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-15",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020249,
+          "link": "/api/v1/game/2022020249/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-16T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 13,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 5,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 8,
+                "losses": 7,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 1,
+              "team": {
+                "id": 8,
+                "name": "Montr\u00e9al Canadiens",
+                "link": "/api/v1/teams/8"
+              }
+            }
+          },
+          "venue": { "name": "Centre Bell", "link": "/api/v1/venues/null" },
+          "content": { "link": "/api/v1/game/2022020249/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-17",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020264,
+          "link": "/api/v1/game/2022020264/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-18T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 14,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 9,
+                "losses": 5,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 10,
+                "name": "Toronto Maple Leafs",
+                "link": "/api/v1/teams/10"
+              }
+            }
+          },
+          "venue": {
+            "name": "Scotiabank Arena",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020264/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-19",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020274,
+          "link": "/api/v1/game/2022020274/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-19T18:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 15,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 5,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 6,
+                "losses": 10,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 1,
+              "team": {
+                "id": 9,
+                "name": "Ottawa Senators",
+                "link": "/api/v1/teams/9"
+              }
+            }
+          },
+          "venue": {
+            "id": 5031,
+            "name": "Canadian Tire Centre",
+            "link": "/api/v1/venues/5031"
+          },
+          "content": { "link": "/api/v1/game/2022020274/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-21",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020293,
+          "link": "/api/v1/game/2022020293/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-22T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 10,
+                "losses": 9,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 22,
+                "name": "Edmonton Oilers",
+                "link": "/api/v1/teams/22"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 16,
+                "losses": 3,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 5,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020293/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-23",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020308,
+          "link": "/api/v1/game/2022020308/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-24T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 11,
+                "losses": 5,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 10,
+                "name": "Toronto Maple Leafs",
+                "link": "/api/v1/teams/10"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 16,
+                "losses": 4,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 1,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020308/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-25",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020327,
+          "link": "/api/v1/game/2022020327/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-26T01:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 4,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 9,
+                "losses": 12,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 1,
+              "team": {
+                "id": 7,
+                "name": "Buffalo Sabres",
+                "link": "/api/v1/teams/7"
+              }
+            }
+          },
+          "venue": {
+            "id": 5039,
+            "name": "KeyBank Center",
+            "link": "/api/v1/venues/5039"
+          },
+          "content": { "link": "/api/v1/game/2022020327/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-26",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020336,
+          "link": "/api/v1/game/2022020336/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-27T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 9,
+                "losses": 11,
+                "ot": 3,
+                "type": "league"
+              },
+              "score": 1,
+              "team": {
+                "id": 15,
+                "name": "Washington Capitals",
+                "link": "/api/v1/teams/15"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 18,
+                "losses": 4,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 5,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020336/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-11-28",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020346,
+          "link": "/api/v1/game/2022020346/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-11-29T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 19,
+                "losses": 4,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 5,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 10,
+                "losses": 9,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 3,
+                "name": "New York Rangers",
+                "link": "/api/v1/teams/3"
+              }
+            }
+          },
+          "venue": {
+            "id": 5054,
+            "name": "Madison Square Garden",
+            "link": "/api/v1/venues/5054"
+          },
+          "content": { "link": "/api/v1/game/2022020346/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-12-01",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020366,
+          "link": "/api/v1/game/2022020366/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-12-02T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 11,
+                "losses": 9,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 18,
+                "name": "Nashville Predators",
+                "link": "/api/v1/teams/18"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 19,
+                "losses": 4,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020366/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-12-03",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020382,
+          "link": "/api/v1/game/2022020382/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-12-04T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 20,
+                "losses": 4,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 8,
+                "losses": 12,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 4,
+                "name": "Philadelphia Flyers",
+                "link": "/api/v1/teams/4"
+              }
+            }
+          },
+          "venue": {
+            "id": 5096,
+            "name": "Wells Fargo Center",
+            "link": "/api/v1/venues/5096"
+          },
+          "content": { "link": "/api/v1/game/2022020382/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-12-06",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020403,
+          "link": "/api/v1/game/2022020403/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-12-07T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 7,
+                "losses": 14,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 16,
+                "name": "Chicago Blackhawks",
+                "link": "/api/v1/teams/16"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 4,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020403/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-12-09",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020425,
+          "link": "/api/v1/game/2022020425/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-12-10T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 11,
+                "ot": 0,
+                "type": "league"
+              },
+              "score": 6,
+              "team": {
+                "id": 2,
+                "name": "New York Islanders",
+                "link": "/api/v1/teams/2"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 5,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020425/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-12-12",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020450,
+          "link": "/api/v1/game/2022020450/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-12-13T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 5,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 15,
+                "losses": 10,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 3,
+                "name": "New York Rangers",
+                "link": "/api/v1/teams/3"
+              }
+            }
+          },
+          "venue": {
+            "id": 5054,
+            "name": "Madison Square Garden",
+            "link": "/api/v1/venues/5054"
+          },
+          "content": { "link": "/api/v1/game/2022020450/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-12-13",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020456,
+          "link": "/api/v1/game/2022020456/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-12-14T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 17,
+                "losses": 8,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 25,
+                "name": "Dallas Stars",
+                "link": "/api/v1/teams/25"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 6,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 1,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020456/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-12-15",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020473,
+          "link": "/api/v1/game/2022020473/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-12-16T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 10,
+                "losses": 14,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 4,
+                "name": "Philadelphia Flyers",
+                "link": "/api/v1/teams/4"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 7,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 1,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020473/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-12-17",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020488,
+          "link": "/api/v1/game/2022020488/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-12-18T00:30:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 15,
+                "losses": 13,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 13,
+                "name": "Florida Panthers",
+                "link": "/api/v1/teams/13"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 8,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020488/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-12-20",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020512,
+          "link": "/api/v1/game/2022020512/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-12-21T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 9,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 1,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 20,
+                "losses": 6,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 12,
+                "name": "Carolina Hurricanes",
+                "link": "/api/v1/teams/12"
+              }
+            }
+          },
+          "venue": {
+            "id": 5066,
+            "name": "PNC Arena",
+            "link": "/api/v1/venues/5066"
+          },
+          "content": { "link": "/api/v1/game/2022020512/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-12-21",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020518,
+          "link": "/api/v1/game/2022020518/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-12-22T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 9,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 15,
+                "losses": 15,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 2,
+              "team": {
+                "id": 13,
+                "name": "Florida Panthers",
+                "link": "/api/v1/teams/13"
+              }
+            }
+          },
+          "venue": {
+            "id": 5027,
+            "name": "FLA Live Arena",
+            "link": "/api/v1/venues/5027"
+          },
+          "content": { "link": "/api/v1/game/2022020518/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-12-23",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020533,
+          "link": "/api/v1/game/2022020533/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-12-24T00:00:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 27,
+                "losses": 4,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 4,
+              "team": {
+                "id": 6,
+                "name": "Boston Bruins",
+                "link": "/api/v1/teams/6"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 10,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020533/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-12-28",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020558,
+          "link": "/api/v1/game/2022020558/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-12-29T00:30:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "codedGameState": "7",
+            "detailedState": "Final",
+            "statusCode": "7",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 28,
+                "losses": 4,
+                "ot": 3,
+                "type": "league"
+              },
+              "score": 3,
+              "team": {
+                "id": 6,
+                "name": "Boston Bruins",
+                "link": "/api/v1/teams/6"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 1,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020558/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2022-12-30",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020576,
+          "link": "/api/v1/game/2022020576/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2022-12-31T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 19,
+                "losses": 10,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 5,
+                "name": "Pittsburgh Penguins",
+                "link": "/api/v1/teams/5"
+              }
+            }
+          },
+          "venue": {
+            "id": 5034,
+            "name": "PPG Paints Arena",
+            "link": "/api/v1/venues/5034"
+          },
+          "content": { "link": "/api/v1/game/2022020576/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-01-01",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020590,
+          "link": "/api/v1/game/2022020590/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-01-01T20:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 23,
+                "losses": 6,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 12,
+                "name": "Carolina Hurricanes",
+                "link": "/api/v1/teams/12"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020590/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-01-04",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020609,
+          "link": "/api/v1/game/2022020609/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-01-05T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 15,
+                "losses": 11,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 17,
+                "name": "Detroit Red Wings",
+                "link": "/api/v1/teams/17"
+              }
+            }
+          },
+          "venue": {
+            "id": 5145,
+            "name": "Little Caesars Arena",
+            "link": "/api/v1/venues/5145"
+          },
+          "content": { "link": "/api/v1/game/2022020609/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-01-05",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020616,
+          "link": "/api/v1/game/2022020616/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-01-06T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 16,
+                "losses": 16,
+                "ot": 3,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 19,
+                "name": "St. Louis Blues",
+                "link": "/api/v1/teams/19"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020616/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-01-07",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020628,
+          "link": "/api/v1/game/2022020628/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-01-07T18:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 19,
+                "losses": 12,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 3,
+                "name": "New York Rangers",
+                "link": "/api/v1/teams/3"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020628/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-01-10",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020650,
+          "link": "/api/v1/game/2022020650/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-01-11T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 23,
+                "losses": 6,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 12,
+                "name": "Carolina Hurricanes",
+                "link": "/api/v1/teams/12"
+              }
+            }
+          },
+          "venue": {
+            "id": 5066,
+            "name": "PNC Arena",
+            "link": "/api/v1/venues/5066"
+          },
+          "content": { "link": "/api/v1/game/2022020650/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-01-13",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020675,
+          "link": "/api/v1/game/2022020675/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-01-14T03:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 10,
+                "losses": 22,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 24,
+                "name": "Anaheim Ducks",
+                "link": "/api/v1/teams/24"
+              }
+            }
+          },
+          "venue": {
+            "id": 5046,
+            "name": "Honda Center",
+            "link": "/api/v1/venues/5046"
+          },
+          "content": { "link": "/api/v1/game/2022020675/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-01-14",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020690,
+          "link": "/api/v1/game/2022020690/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-01-15T03:30:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 20,
+                "losses": 12,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 26,
+                "name": "Los Angeles Kings",
+                "link": "/api/v1/teams/26"
+              }
+            }
+          },
+          "venue": {
+            "name": "Crypto.com Arena",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020690/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-01-16",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020697,
+          "link": "/api/v1/game/2022020697/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-01-16T21:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 11,
+                "losses": 19,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 28,
+                "name": "San Jose Sharks",
+                "link": "/api/v1/teams/28"
+              }
+            }
+          },
+          "venue": {
+            "name": "SAP Center at San Jose",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020697/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-01-19",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020728,
+          "link": "/api/v1/game/2022020728/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-01-20T03:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 18,
+                "losses": 11,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 55,
+                "name": "Seattle Kraken",
+                "link": "/api/v1/teams/55"
+              }
+            }
+          },
+          "venue": {
+            "name": "Climate Pledge Arena",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020728/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-01-22",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020746,
+          "link": "/api/v1/game/2022020746/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-01-22T19:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 19,
+                "losses": 10,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 5,
+                "name": "Pittsburgh Penguins",
+                "link": "/api/v1/teams/5"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020746/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-01-24",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020759,
+          "link": "/api/v1/game/2022020759/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-01-25T00:30:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 24,
+                "losses": 12,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 54,
+                "name": "Vegas Golden Knights",
+                "link": "/api/v1/teams/54"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020759/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-01-26",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020775,
+          "link": "/api/v1/game/2022020775/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-01-27T01:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 14,
+                "losses": 14,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 18,
+                "name": "Nashville Predators",
+                "link": "/api/v1/teams/18"
+              }
+            }
+          },
+          "venue": {
+            "id": 5030,
+            "name": "Bridgestone Arena",
+            "link": "/api/v1/venues/5030"
+          },
+          "content": { "link": "/api/v1/game/2022020775/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-01-27",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020785,
+          "link": "/api/v1/game/2022020785/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-01-28T01:30:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 9,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 25,
+                "name": "Dallas Stars",
+                "link": "/api/v1/teams/25"
+              }
+            }
+          },
+          "venue": {
+            "id": 5019,
+            "name": "American Airlines Center",
+            "link": "/api/v1/venues/5019"
+          },
+          "content": { "link": "/api/v1/game/2022020785/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-02-06",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020810,
+          "link": "/api/v1/game/2022020810/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-02-07T00:30:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 16,
+                "losses": 15,
+                "ot": 3,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 23,
+                "name": "Vancouver Canucks",
+                "link": "/api/v1/teams/23"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020810/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-02-09",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020824,
+          "link": "/api/v1/game/2022020824/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-02-10T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 18,
+                "losses": 11,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 55,
+                "name": "Seattle Kraken",
+                "link": "/api/v1/teams/55"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020824/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-02-11",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020843,
+          "link": "/api/v1/game/2022020843/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-02-12T01:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 20,
+                "losses": 12,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 30,
+                "name": "Minnesota Wild",
+                "link": "/api/v1/teams/30"
+              }
+            }
+          },
+          "venue": {
+            "id": 5098,
+            "name": "Xcel Energy Center",
+            "link": "/api/v1/venues/5098"
+          },
+          "content": { "link": "/api/v1/game/2022020843/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-02-14",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020857,
+          "link": "/api/v1/game/2022020857/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-02-15T00:30:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 10,
+                "losses": 21,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 29,
+                "name": "Columbus Blue Jackets",
+                "link": "/api/v1/teams/29"
+              }
+            }
+          },
+          "venue": {
+            "id": 5059,
+            "name": "Nationwide Arena",
+            "link": "/api/v1/venues/5059"
+          },
+          "content": { "link": "/api/v1/game/2022020857/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-02-16",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020874,
+          "link": "/api/v1/game/2022020874/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-02-17T02:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 16,
+                "losses": 16,
+                "ot": 3,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 19,
+                "name": "St. Louis Blues",
+                "link": "/api/v1/teams/19"
+              }
+            }
+          },
+          "venue": {
+            "id": 5076,
+            "name": "Enterprise Center",
+            "link": "/api/v1/venues/5076"
+          },
+          "content": { "link": "/api/v1/game/2022020874/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-02-18",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020886,
+          "link": "/api/v1/game/2022020886/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-02-18T22:30:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 19,
+                "losses": 10,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 5,
+                "name": "Pittsburgh Penguins",
+                "link": "/api/v1/teams/5"
+              }
+            }
+          },
+          "venue": {
+            "id": 5034,
+            "name": "PPG Paints Arena",
+            "link": "/api/v1/venues/5034"
+          },
+          "content": { "link": "/api/v1/game/2022020886/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-02-19",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020900,
+          "link": "/api/v1/game/2022020900/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-02-20T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 13,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 52,
+                "name": "Winnipeg Jets",
+                "link": "/api/v1/teams/52"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020900/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-02-21",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020910,
+          "link": "/api/v1/game/2022020910/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-02-22T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 15,
+                "losses": 17,
+                "ot": 3,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 8,
+                "name": "Montr\u00e9al Canadiens",
+                "link": "/api/v1/teams/8"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020910/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-02-23",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020923,
+          "link": "/api/v1/game/2022020923/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-02-24T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 20,
+                "losses": 12,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 26,
+                "name": "Los Angeles Kings",
+                "link": "/api/v1/teams/26"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020923/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-02-25",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020941,
+          "link": "/api/v1/game/2022020941/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-02-26T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 11,
+                "losses": 17,
+                "ot": 7,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 4,
+                "name": "Philadelphia Flyers",
+                "link": "/api/v1/teams/4"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022020941/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-01",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020971,
+          "link": "/api/v1/game/2022020971/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-02T02:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 19,
+                "losses": 12,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 21,
+                "name": "Colorado Avalanche",
+                "link": "/api/v1/teams/21"
+              }
+            }
+          },
+          "venue": {
+            "id": 5064,
+            "name": "Ball Arena",
+            "link": "/api/v1/venues/5064"
+          },
+          "content": { "link": "/api/v1/game/2022020971/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-03",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022020988,
+          "link": "/api/v1/game/2022020988/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-04T03:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 24,
+                "losses": 12,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 54,
+                "name": "Vegas Golden Knights",
+                "link": "/api/v1/teams/54"
+              }
+            }
+          },
+          "venue": {
+            "id": 5178,
+            "name": "T-Mobile Arena",
+            "link": "/api/v1/venues/5178"
+          },
+          "content": { "link": "/api/v1/game/2022020988/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-05",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021004,
+          "link": "/api/v1/game/2022021004/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-06T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 12,
+                "losses": 16,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 53,
+                "name": "Arizona Coyotes",
+                "link": "/api/v1/teams/53"
+              }
+            }
+          },
+          "venue": { "name": "Mullett Arena", "link": "/api/v1/venues/null" },
+          "content": { "link": "/api/v1/game/2022021004/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-07",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021015,
+          "link": "/api/v1/game/2022021015/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-08T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 7,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 10,
+                "name": "Toronto Maple Leafs",
+                "link": "/api/v1/teams/10"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022021015/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-09",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021029,
+          "link": "/api/v1/game/2022021029/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-10T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 20,
+                "losses": 13,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 15,
+                "name": "Washington Capitals",
+                "link": "/api/v1/teams/15"
+              }
+            }
+          },
+          "venue": {
+            "id": 5094,
+            "name": "Capital One Arena",
+            "link": "/api/v1/venues/5094"
+          },
+          "content": { "link": "/api/v1/game/2022021029/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-11",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021044,
+          "link": "/api/v1/game/2022021044/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-12T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 15,
+                "losses": 17,
+                "ot": 3,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 8,
+                "name": "Montr\u00e9al Canadiens",
+                "link": "/api/v1/teams/8"
+              }
+            }
+          },
+          "venue": { "name": "Centre Bell", "link": "/api/v1/venues/null" },
+          "content": { "link": "/api/v1/game/2022021044/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-12",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021055,
+          "link": "/api/v1/game/2022021055/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-12T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 23,
+                "losses": 6,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 12,
+                "name": "Carolina Hurricanes",
+                "link": "/api/v1/teams/12"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022021055/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-14",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021065,
+          "link": "/api/v1/game/2022021065/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-14T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 11,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 14,
+                "name": "Tampa Bay Lightning",
+                "link": "/api/v1/teams/14"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022021065/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-16",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021083,
+          "link": "/api/v1/game/2022021083/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-16T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 11,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 14,
+                "name": "Tampa Bay Lightning",
+                "link": "/api/v1/teams/14"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022021083/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-18",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021100,
+          "link": "/api/v1/game/2022021100/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-18T22:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 15,
+                "losses": 16,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 13,
+                "name": "Florida Panthers",
+                "link": "/api/v1/teams/13"
+              }
+            }
+          },
+          "venue": {
+            "id": 5027,
+            "name": "FLA Live Arena",
+            "link": "/api/v1/venues/5027"
+          },
+          "content": { "link": "/api/v1/game/2022021100/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-19",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021112,
+          "link": "/api/v1/game/2022021112/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-19T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 11,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 14,
+                "name": "Tampa Bay Lightning",
+                "link": "/api/v1/teams/14"
+              }
+            }
+          },
+          "venue": {
+            "id": 5017,
+            "name": "Amalie Arena",
+            "link": "/api/v1/venues/5017"
+          },
+          "content": { "link": "/api/v1/game/2022021112/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-21",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021123,
+          "link": "/api/v1/game/2022021123/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-21T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 20,
+                "losses": 12,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 30,
+                "name": "Minnesota Wild",
+                "link": "/api/v1/teams/30"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022021123/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-24",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021148,
+          "link": "/api/v1/game/2022021148/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-24T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 16,
+                "losses": 14,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 7,
+                "name": "Buffalo Sabres",
+                "link": "/api/v1/teams/7"
+              }
+            }
+          },
+          "venue": {
+            "id": 5039,
+            "name": "KeyBank Center",
+            "link": "/api/v1/venues/5039"
+          },
+          "content": { "link": "/api/v1/game/2022021148/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-25",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021159,
+          "link": "/api/v1/game/2022021159/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-25T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 15,
+                "losses": 16,
+                "ot": 3,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 9,
+                "name": "Ottawa Senators",
+                "link": "/api/v1/teams/9"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022021159/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-27",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021172,
+          "link": "/api/v1/game/2022021172/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-27T23:30:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 20,
+                "losses": 14,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 2,
+                "name": "New York Islanders",
+                "link": "/api/v1/teams/2"
+              }
+            }
+          },
+          "venue": { "name": "UBS Arena", "link": "/api/v1/venues/null" },
+          "content": { "link": "/api/v1/game/2022021172/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-03-30",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021191,
+          "link": "/api/v1/game/2022021191/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-03-30T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 19,
+                "losses": 12,
+                "ot": 5,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 3,
+                "name": "New York Rangers",
+                "link": "/api/v1/teams/3"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022021191/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-04-01",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021211,
+          "link": "/api/v1/game/2022021211/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-04-02T00:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 8,
+                "losses": 21,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 16,
+                "name": "Chicago Blackhawks",
+                "link": "/api/v1/teams/16"
+              }
+            }
+          },
+          "venue": {
+            "id": 5092,
+            "name": "United Center",
+            "link": "/api/v1/venues/5092"
+          },
+          "content": { "link": "/api/v1/game/2022021211/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-04-02",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021223,
+          "link": "/api/v1/game/2022021223/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-04-02T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 21,
+                "losses": 13,
+                "ot": 1,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 52,
+                "name": "Winnipeg Jets",
+                "link": "/api/v1/teams/52"
+              }
+            }
+          },
+          "venue": {
+            "id": 5058,
+            "name": "Canada Life Centre",
+            "link": "/api/v1/venues/5058"
+          },
+          "content": { "link": "/api/v1/game/2022021223/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-04-04",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021233,
+          "link": "/api/v1/game/2022021233/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-04-04T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 19,
+                "losses": 10,
+                "ot": 6,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 5,
+                "name": "Pittsburgh Penguins",
+                "link": "/api/v1/teams/5"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022021233/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-04-06",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021243,
+          "link": "/api/v1/game/2022021243/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-04-06T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 10,
+                "losses": 21,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 29,
+                "name": "Columbus Blue Jackets",
+                "link": "/api/v1/teams/29"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022021243/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-04-08",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021265,
+          "link": "/api/v1/game/2022021265/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-04-08T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 28,
+                "losses": 4,
+                "ot": 3,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 6,
+                "name": "Boston Bruins",
+                "link": "/api/v1/teams/6"
+              }
+            }
+          },
+          "venue": {
+            "id": 5085,
+            "name": "TD Garden",
+            "link": "/api/v1/venues/5085"
+          },
+          "content": { "link": "/api/v1/game/2022021265/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-04-11",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021285,
+          "link": "/api/v1/game/2022021285/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-04-11T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 16,
+                "losses": 14,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 7,
+                "name": "Buffalo Sabres",
+                "link": "/api/v1/teams/7"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            }
+          },
+          "venue": {
+            "name": "Prudential Center",
+            "link": "/api/v1/venues/null"
+          },
+          "content": { "link": "/api/v1/game/2022021285/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    },
+    {
+      "date": "2023-04-13",
+      "totalItems": 1,
+      "totalEvents": 0,
+      "totalGames": 1,
+      "totalMatches": 0,
+      "games": [
+        {
+          "gamePk": 2022021301,
+          "link": "/api/v1/game/2022021301/feed/live",
+          "gameType": "R",
+          "season": "20222023",
+          "gameDate": "2023-04-13T23:00:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "codedGameState": "1",
+            "detailedState": "Scheduled",
+            "statusCode": "1",
+            "startTimeTBD": false
+          },
+          "teams": {
+            "away": {
+              "leagueRecord": {
+                "wins": 22,
+                "losses": 11,
+                "ot": 2,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 1,
+                "name": "New Jersey Devils",
+                "link": "/api/v1/teams/1"
+              }
+            },
+            "home": {
+              "leagueRecord": {
+                "wins": 20,
+                "losses": 13,
+                "ot": 4,
+                "type": "league"
+              },
+              "score": 0,
+              "team": {
+                "id": 15,
+                "name": "Washington Capitals",
+                "link": "/api/v1/teams/15"
+              }
+            }
+          },
+          "venue": {
+            "id": 5094,
+            "name": "Capital One Arena",
+            "link": "/api/v1/venues/5094"
+          },
+          "content": { "link": "/api/v1/game/2022021301/content" }
+        }
+      ],
+      "events": [],
+      "matches": []
+    }
+  ]
+}
